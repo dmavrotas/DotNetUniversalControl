@@ -1,0 +1,15 @@
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\bin\Debug\1stWinForm.exe.config
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\bin\Debug\1stWinForm.exe
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\bin\Debug\1stWinForm.pdb
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm.csprojResolveAssemblyReference.cache
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\MapWPFControlxaml.baml
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\MapWPFControlxaml.g.cs
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm_MarkupCompile.cache
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm.g.resources
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\_1stWinForm.Properties.Resources.resources
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm.csproj.GenerateResource.Cache
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm.exe
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\1stWinForm.pdb
+C:\Users\thedo_000\Desktop\1stWinForm\1stWinForm\obj\Debug\_1stWinForm.Form1.resources
